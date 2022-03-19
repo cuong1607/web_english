@@ -1,0 +1,89 @@
+
+
+.main--background {
+    background-color: #00cdc4;
+    display: flex;
+    margin-top: 100px;
+
+}
+
+.main--background--content {
+    padding:200px 0 0 176px;
+}
+.main--background--content__title1 {
+    color: #4F67FF;
+    font-family: "Neuton",Sans-serif;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07em;
+    letter-spacing: -.7px;
+}
+
+.main--background--content__title2{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.17em;
+    letter-spacing: -.4px;
+}
+
+.main--advantage {
+    padding: 100px 100px 0 190px;
+    text-align: left;
+    font-family: "Gotham Rounded",Sans-serif;
+}
+.main--advantage--learning {
+    color: #191E3B;
+    font-size: 32px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.main--advantage--list {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.main-advantage--list--name {
+    list-style: none;
+    color: #5f595f;
+    font-size: 16px;
+    font-weight: 600;
+    align-self: center;
+    padding: 10px 20px 20px 5px;
+}
+
+.main--advantage--video {
+    padding: 100px 0 0 0;
+}
+
+.main--advantage--video--title1 {
+    color: #191E3B;
+    font-size: 32px;
+    font-weight: 600;   
+}
+
+.main--advantage--video--title2 {
+    color: #5f595f;
+    font-size: 16px;
+}
+
+.main--advantage--video--play {
+    width: 950px;
+    height: 550px;
+    border-radius: 20px;
+}
+
+.main--list4c{
+    padding: 100px 100px 0 190px;
+} 
+
+.main--list4c--content {
+    padding-bottom: 20px;
+    color: #191E3B;
+    font-family: "Gotham Rounded",Sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+}
+

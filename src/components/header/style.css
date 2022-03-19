@@ -1,0 +1,35 @@
+.header {
+    border-bottom: 1px solid violet;
+    background-color: #ffff;
+    position: fixed;
+    top:0;
+    width: 100%;
+    height: 100px;
+    z-index: 1;
+}
+
+
+.header-logo {
+    display: flex;
+    padding-left: 192px;
+    padding-top: 5px;
+}
+
+.header-logo-items{
+    height: 50px;
+    width: 50px;
+}
+
+.name {
+    padding: 10px;
+    margin: 0px;
+    color: blue;
+    font-style: inherit;
+}
+.main-list-name{
+    color: #8f84bd;
+}
+
+.main-list-name-home {
+    color: #39c7d1;
+}

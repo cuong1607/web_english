@@ -1,0 +1,29 @@
+.main-container-saying-thank {
+    height: 440px;
+    width: 280px;
+    background-color: white;
+    text-align: center;
+    position: relative;
+    border-radius: 10px;
+    padding-top: 60px;
+    margin-bottom: 80px;
+}
+
+
+.thank-start {
+    color: yellow;
+    margin-bottom: 20px;
+}
+.thank-logo {
+    position: absolute;
+    top: -10%;
+    right: 33%;
+}
+
+.main-container-saying-thank .thank-text{
+    color:#52566c;
+    text-align: left !important;
+    padding: 0 20px 0 20px ;
+    font-weight: 600;
+    font-size: 16px;
+}

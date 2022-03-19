@@ -1,0 +1,55 @@
+.main{
+    font-family: "Gotham Rounded",Sans-serif;
+}
+
+.main .list-topic {
+    padding: 100px 283px 0 283px;
+    text-align: center;
+}
+.list-topic h1 {
+    font-size: 48px;
+    color: #191E3B;
+}
+.list-topic h3{
+    font-size: 24px;
+    color: #191E3B;
+    padding: 0 50px 50px 50px;
+}
+
+
+.main .list-english{
+    list-style: none;
+    padding: 0 283px 0 283px;
+    color:#c28194;
+}
+.list-english .title {
+    padding: 10px 0 0 30px;
+    color: #3175e4;
+}
+
+.main .list-title-img{
+    text-align: center;
+}
+.list-img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.list-animal {
+    height: 400px;
+    width: 300px;
+    padding: 20px 20px 20px 20px;
+}
+
+.img-phone {
+    margin-left: 500px;
+}
+.content {
+    margin-left: 150px;
+    font-size: 24px;
+    font-weight: 600;
+}
+h4{
+    color: #52566C;
+    font-family: "Gotham Rounded",Sans-serif;
+}

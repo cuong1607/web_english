@@ -1,0 +1,26 @@
+.footer {
+    background-color: #2f4052;
+}
+
+.footer--block {
+    display: flex;
+    justify-content: space-between;
+    border: 10px solid #2f4052;
+}
+
+.footer--block--img {
+    height: 300px;
+    width: 300px;
+}
+
+.footer--block--company--contact{
+    color: white;
+    font-size: 18px;
+}
+.footer--block--company--contact-h3 {
+    color:#a3a699;
+    font-size: 14px;
+}
+.footer--block--company--contact-ul {
+    color:#a3a699;
+}

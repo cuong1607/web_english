@@ -1,0 +1,39 @@
+.main--list4c--content--block {
+    display: flex;
+}
+
+.main--list4c--content--text {
+    color: #52566C;
+    font-family: "Gotham Rounded",Sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    padding-top: 50px;
+}
+
+.main--list4c--content--video {
+    height:  295px;
+    width: 680px;
+    border-radius: 10px;
+}
+
+.main--list4c--content--block-list {
+    list-style: none;
+    color: #79566c;
+    font-weight: 600;
+}
+
+
+.main--list4c--content--block-list1 {
+    margin: 20px 80px 0 80px;
+}
+
+.main--list4c--content--block-list2 {
+    margin: 20px 0 0 0;
+    padding: 0;
+}
+
+.main--list4c--content--block-name {
+    padding: 20px 40px 0 0 ;
+    font-size: 16px;
+    
+}
